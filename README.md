@@ -10,7 +10,7 @@
 <h3 align="center">Hardhat Fund Me</h3>
 
   <p align="center">
-    A simple decentralized application running on an Ethereum Blockchain. It implements the funding and withdrawal funcionalities, allowing the user to collect funds from multiple accounts and then transfer them to their own.
+    A simple decentralized application running on an Ethereum Blockchain. It implements the funding and withdrawal functionalities, allowing the user to collect funds from multiple funders and then transfer them to their own account.
     Created as a part of <a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ&list=WL&index=4&ab_channel=freeCodeCamp.org">this amazing course</a>!
   </p>
 </div>
@@ -23,8 +23,8 @@
 * [![Solidity][Solidity]][Solidity-url] 
 * [![Ethereum][Ethereum]][Ethereum-url] 
 * [![Chai][Chai]][Chai-url]
-*  [Hardhat][Hardhat-url] 
-*  [Ethers][Ethers-url] 
+* [Hardhat][Hardhat-url] 
+* [Ethers][Ethers-url] 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -34,7 +34,6 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
